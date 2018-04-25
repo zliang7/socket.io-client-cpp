@@ -1,0 +1,7 @@
+repo:    https://github.com/socketio/socket.io-client-cpp.git
+commit:  6063cb1d612f6ca0232d4134a018053fb8faea20
+
+Changes:
+0. Add this file
+1. Add yunos.mk
+2. Put only necessary files of boost to lib/boost
